@@ -56,7 +56,7 @@ class DraggableListElem {
         };
       });
       let tempDiv = document.createElement("div");
-      tempDiv.classList.add("marker-list-elem");
+      tempDiv.classList.add(this.className);
       tempDiv.style.opacity = 0;
       tempDiv.ondragenter = (e) => {
         this.container.insertBefore(this.tempElem, tempDiv);
