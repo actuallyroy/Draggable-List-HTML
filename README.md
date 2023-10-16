@@ -98,11 +98,3 @@ You can customize the styles of your list items by modifying the CSS. You can ad
 </body>
 </html>
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides a basic introduction to the `Draggable List Element` class. You may want to expand it with more details on specific methods, configuration options, and advanced usage as per your project's requirements.
